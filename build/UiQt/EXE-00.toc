@@ -1,5 +1,5 @@
 ('C:\\Users\\kekros\\Documents\\Assistant\\build\\UiQt\\UiQt.exe',
- False,
+ True,
  False,
  True,
  ['C:\\Users\\kekros\\Documents\\Assistant\\icons\\IconOVA_on.png'],
@@ -68,8 +68,8 @@
  [],
  False,
  False,
- 1738555245,
- [('runw.exe',
-   'c:\\users\\kekros\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\runw.exe',
+ 1738815869,
+ [('run.exe',
+   'c:\\users\\kekros\\appdata\\local\\programs\\python\\python39\\lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
    'EXECUTABLE')],
  'c:\\users\\kekros\\appdata\\local\\programs\\python\\python39\\python39.dll')
