@@ -1,0 +1,12 @@
+{"Languages":{
+    "En":{
+        "name":"English",
+        "SystemMessage":"You are an English assistant. You will only reply in English"
+    },
+    "Fr":{
+        "name":"French",
+        "SystemMessage":"You are an French assistant. You will only reply in  français"
+    }
+
+}
+}

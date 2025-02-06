@@ -1,4 +1,4 @@
-('C:\\Users\\kekros\\Documents\\Assistant\\build\\UiQt\\UiQt.pkg',
+('C:\\Users\\kekros\\Documents\\Assistant\\build\\UiQt\\OVA.pkg',
  {'BINARY': True,
   'DATA': True,
   'EXECUTABLE': True,
